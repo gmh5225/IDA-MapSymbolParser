@@ -33,3 +33,4 @@ def rename_symbols_from_map():
         print("No .map file selected.")
 
 rename_symbols_from_map()
+
